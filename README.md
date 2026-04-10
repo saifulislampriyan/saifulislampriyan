@@ -1,0 +1,114 @@
+<!-- ================= HEADER ================= -->
+<h1 align="center">Hi 👋, I'm Md. Saiful Islam</h1>
+<h3 align="center">🚀 Machine Learning | NLP | Cybersecurity Researcher</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Machine+Learning+Engineer;NLP+Researcher;Cybersecurity+Enthusiast;IEEE+Conference+Author" />
+</p>
+
+---
+
+<!-- ================= ABOUT ================= -->
+## 🚀 About Me
+- 🎓 CSE Graduate passionate about **AI, ML, NLP & Cybersecurity**
+- 📄 IEEE Conference Author (RAAICON 2025)
+- 🔍 Focus: **Phishing Detection | IoT Security | Bengali NLP**
+- ⚙️ Experience in **Industrial Automation (PLC & SCADA)**
+
+---
+
+<!-- ================= STATS ================= -->
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<!-- ================= SKILLS ================= -->
+## 🧠 Skills
+
+### 💻 Programming & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🤖 AI / ML / DL
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 🧠 NLP & Data
+![NLP](https://img.shields.io/badge/NLP-Deep%20Learning-blue?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+
+### ⚙️ Industrial Tech
+![PLC](https://img.shields.io/badge/PLC-Automation-green?style=for-the-badge)
+![SCADA](https://img.shields.io/badge/SCADA-System-orange?style=for-the-badge)
+
+---
+
+<!-- ================= PROJECTS ================= -->
+## 🚀 Featured Projects
+
+### 🔹 Bengali Hate Speech Detection  
+- 🧠 NLP + Deep Learning (5,698 dataset)  
+- 🎯 Accuracy: **78.77%**  
+- ⚙️ Techniques: TF-IDF, Word Embedding, Dropout  
+
+---
+
+### 🔹 Phishing Detection System  
+- 🛡️ CNN-LSTM + Feature Engineering  
+- 🎯 Accuracy: **92%**  
+- 🔍 Detects homoglyph & social engineering attacks  
+
+---
+
+### 🔹 TB Detection (ResNet + EfficientNet)  
+- 🧠 Deep Learning Ensemble Model  
+- 🎯 Accuracy: **99.4%**  
+- 🏥 Automated X-ray classification  
+
+---
+
+<!-- ================= RESEARCH ================= -->
+## 📄 Research & Publications
+
+📌 **Hybrid PSO-CNN-XGBoost for IoT Security**  
+→ IEEE 4th International Conference (RAAICON 2025)  
+
+📌 **Phishing Detection using LSTM & Feature Engineering**  
+→ High-accuracy cybersecurity model  
+
+📌 **Bengali NLP Classification System**  
+→ Real-world hate speech detection  
+
+---
+
+<!-- ================= TROPHY ================= -->
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6" />
+</p>
+
+---
+
+<!-- ================= CONTACT ================= -->
+## 📫 Connect with Me
+
+- 📧 Email: your_priyansaiful@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/saifulislampriyan
+
+---
+
+<!-- ================= FOOTER ================= -->
+<p align="center">
+  ⭐ "Turning ideas into intelligent systems"
+</p>
