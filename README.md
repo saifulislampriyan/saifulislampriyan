@@ -86,7 +86,7 @@
 ## 📄 Research & Publications
 
 📌 **Hybrid PSO-CNN-XGBoost for IoT Security**  
-→ IEEE 4th International Conference (RAAICON 2025)  
+→ IEEE 4th International Conference on Robotics, Automation, Artificial Intelligence, and Internet-of-Things (RAAICON) 2025
 
 📌 **Phishing Detection using LSTM & Feature Engineering**  
 → High-accuracy cybersecurity model  
@@ -108,7 +108,7 @@
 <!-- ================= CONTACT ================= -->
 ## 📫 Connect with Me
 
-- 📧 Email: your_priyansaiful@gmail.com
+- 📧 Email: priyansaiful@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/saifulislampriyan
 
 ---
