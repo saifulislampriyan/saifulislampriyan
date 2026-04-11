@@ -90,5 +90,5 @@
 
 <!-- ================= FOOTER ================= -->
 <p align="center">
-  ⭐ "Turning ideas into intelligent systems"
+  ⭐ "Engineering intelligent systems"
 </p>
