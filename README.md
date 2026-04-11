@@ -90,5 +90,5 @@
 
 <!-- ================= FOOTER ================= -->
 <p align="center">
-  "Engineering intelligent systems"
+  "Engineering Intelligent Systems"
 </p>
