@@ -1,16 +1,9 @@
-<h1 align="center">Hi! I'm Md. Saiful Islam 👋</h1>
-
-<h3 align="center">Machine Learning • NLP • Cybersecurity Researcher</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;NLP+Researcher;Cybersecurity+Enthusiast;IEEE+Conference+Author;Building+intelligent+and+practical+systems" alt="Typing SVG" />
-</p>
+<!-- ================= HEADER ================= -->
+<h1 align="center">Hi!  I'm Md. Saiful Islam</h1>
+<h3 align="center">🚀 Machine Learning | NLP | Cybersecurity Researcher</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Research-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NLP-Text%20Intelligence-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cybersecurity-Security%20Research-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Industrial%20Automation-PLC%20%26%20SCADA-orange?style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Machine+Learning+Engineer;NLP+Researcher;Cybersecurity+Enthusiast;IEEE+Conference+Author" />
 </p>
 
 ---
