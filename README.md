@@ -18,26 +18,6 @@
 ---
 
 <!-- ================= STATS ================= -->
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saifulislampriyan&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true" />
-  <img src="https://streak-stats.demolab.com/?user=saifulislampriyan&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifulislampriyan&layout=compact&theme=tokyonight&langs_count=8" />
-</p>
-
----
-
-## 📈 Work Focus
-
-Machine Learning      ██████████ 90%  
-Deep Learning         █████████░ 85%  
-NLP                   █████████░ 85%  
-Cybersecurity         ████████░░ 80%  
-Industrial Automation ███████░░░ 70%  
 
 ---
 <!-- ================= SKILLS ================= -->
