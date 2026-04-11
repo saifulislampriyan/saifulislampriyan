@@ -16,10 +16,6 @@
 - ⚙️ Experience in **Industrial Automation (PLC & SCADA)**
 
 ---
-
-<!-- ================= STATS ================= -->
-
----
 <!-- ================= SKILLS ================= -->
 ## 🧠 Skills
 ### 💻 Programming Languages
