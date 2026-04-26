@@ -8,7 +8,7 @@
 
 ---
 <!-- ================= ABOUT ================= -->
-## 🚀 About Me
+##  About Me
 - 🎓 CSE Graduate passionate about **AI, ML, NLP & Cybersecurity**
 - 📄 IEEE Conference Author (RAAICON 2025)
 - 🔍 Focus: **Phishing Detection | IoT Security | Bengali NLP**
@@ -16,7 +16,7 @@
 
 ---
 <!-- ================= SKILLS ================= -->
-## 🧠 Skills
+##  Skills
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -43,7 +43,7 @@
 ---
 
 <!-- ================= PROJECTS ================= -->
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 🔹 Bengali Hate Speech Detection  
 - 🧠 NLP + Deep Learning (5,698 dataset)  
