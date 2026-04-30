@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&multiline=false&width=780&height=70&lines=Machine+Learning+Engineer+%F0%9F%A4%96;Natural+Language+Processing+Researcher+%F0%9F%A7%A0;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;IEEE+Conference+Author+%F0%9F%93%84;Industrial+Automation+Engineer+%E2%9A%99%EF%B8%8F" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&multiline=false&width=780&height=70&lines=Machine+Learning+Engineer;Natural+Language+Processing+Researcher;Cybersecurity+Enthusiast;IEEE+Conference+Author;Industrial+Automation+Engineer" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -43,20 +43,20 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403295/media/dbcd913c075568a6d610fdb674edaeac.gif"/>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"> &nbsp; About Me
+## About Me
 
 <img src="https://img.shields.io/badge/-CSE%20Graduate-00F7FF?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/-IEEE%20Author-0066B3?style=flat-square&logo=ieee&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9-006A4E?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Bangladesh-006A4E?style=flat-square&logoColor=white"/>
 
-- 🎓 &nbsp; **B.Sc. & M.Sc. in Computer Science & Engineering** — *Comilla University* 🇧🇩
-- 📄 &nbsp; **IEEE Conference Author** at **RAAICON 2025** *(MIST, Dhaka)*
-- 🔬 &nbsp; Currently researching **Phishing Detection · IoT Security · Bengali NLP**
-- ⚙️ &nbsp; Hands-on with **Industrial Automation (PLC & SCADA)**
-- 💬 &nbsp; Ask me about **Deep Learning · Cybersecurity · Bengali NLP**
-- 🎯 &nbsp; **Goal:** publish more high-impact research bridging AI & security
-- 📫 &nbsp; **Personal:** [priyansaiful@gmail.com](mailto:priyansaiful@gmail.com)
-- 🏛️ &nbsp; **Academic:** [saifulislam.cse@stdu.cou.ac.bd](mailto:saifulislam.cse@stdu.cou.ac.bd)
+- **B.Sc. & M.Sc. in Computer Science & Engineering** — *Comilla University*
+- **IEEE Conference Author** at **RAAICON 2025** *(MIST, Dhaka)*
+- Currently researching **Phishing Detection · IoT Security · Bengali NLP**
+- Hands-on with **Industrial Automation (PLC & SCADA)**
+- Ask me about **Deep Learning · Cybersecurity · Bengali NLP**
+- **Goal:** publish more high-impact research bridging AI & security
+- **Personal:** [priyansaiful@gmail.com](mailto:priyansaiful@gmail.com)
+- **Academic:** [saifulislam.cse@stdu.cou.ac.bd](mailto:saifulislam.cse@stdu.cou.ac.bd)
 
 <br clear="right"/>
 
@@ -70,11 +70,11 @@
 
 <div align="center">
 
-### 💻 &nbsp; Languages
+### Languages
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,rust,bash,mysql&theme=dark&perline=8"/>
 
-### 🤖 &nbsp; AI / Machine Learning / Deep Learning
+### AI / Machine Learning / Deep Learning
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark"/>
 <br/>
@@ -83,7 +83,7 @@
 <img src="https://img.shields.io/badge/XGBoost-EB6C2D?style=for-the-badge&logo=xgboost&logoColor=white"/>
 <img src="https://img.shields.io/badge/LightGBM-3A9C3D?style=for-the-badge&logo=lightgbm&logoColor=white"/>
 
-### 📊 &nbsp; Data Science & NLP
+### Data Science & NLP
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -92,20 +92,20 @@
 <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
-### 🛡️ &nbsp; Cybersecurity & Tools
+### Cybersecurity & Tools
 
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 <img src="https://img.shields.io/badge/Nmap-2C3E50?style=for-the-badge&logo=nmap&logoColor=white"/>
 
-### ⚙️ &nbsp; Industrial Automation
+### Industrial Automation
 
 <img src="https://img.shields.io/badge/PLC-Programming-3DA639?style=for-the-badge&logo=siemens&logoColor=white"/>
 <img src="https://img.shields.io/badge/SCADA-System-FF6F00?style=for-the-badge&logo=automattic&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ladder%20Logic-005AA0?style=for-the-badge&logoColor=white"/>
 
-### 🧰 &nbsp; Tools & Platforms
+### Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,figma,latex&theme=dark&perline=8"/>
 
@@ -117,24 +117,21 @@
 <!-- ║                              CONTRIBUTION GRAPH                           ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
-## 📈 &nbsp; Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="33%">
-  <h3>📝</h3>
   <h2><img src="https://img.shields.io/badge/63-7C3AED?style=for-the-badge&label=Total%20Contributions&labelColor=0D1117&color=7C3AED"/></h2>
   <sub>Oct 13, 2024 — Present</sub>
 </td>
 <td align="center" width="33%">
-  <h3>🔥</h3>
   <h2><img src="https://img.shields.io/badge/3-00F7FF?style=for-the-badge&label=Current%20Streak&labelColor=0D1117&color=00F7FF"/></h2>
   <sub>Apr 29 — May 1</sub>
 </td>
 <td align="center" width="33%">
-  <h3>🏆</h3>
   <h2><img src="https://img.shields.io/badge/7-FF6F00?style=for-the-badge&label=Longest%20Streak&labelColor=0D1117&color=FF6F00"/></h2>
   <sub>Mar 31 — Apr 6</sub>
 </td>
@@ -284,14 +281,14 @@
 
 </div>
 
-### 👥 &nbsp; Authors
+### Authors
 
 <div align="center">
 
 | Author | Affiliation |
 |---|---|
 | Arshadul Islam Sourav | ICT, Comilla University |
-| **Md. Saiful Islam** ⭐ | **CSE, Comilla University** |
+| **Md. Saiful Islam** | **CSE, Comilla University** |
 | Umma Sabikun Nahar | CSE, Gopalganj Science & Technology University |
 | Mahmudul Islam Nayon | CSE, Comilla University |
 | Md. Tofael Ahmed | ICT, Comilla University |
@@ -304,21 +301,18 @@
 <tr>
 <td width="33%" align="center">
 
-<h3>🐝</h3>
 <h4>PSO Feature Selection</h4>
 <sub>Wrapper-based PSO reduces 83 → <b>20</b> most discriminative features, validated by Pearson correlation pruning.</sub>
 
 </td>
 <td width="33%" align="center">
 
-<h3>🧬</h3>
 <h4>Hybrid CNN → XGBoost</h4>
 <sub>CNN learns dense embeddings; XGBoost classifies them — combining representation power with robust decision boundaries.</sub>
 
 </td>
 <td width="33%" align="center">
 
-<h3>🔍</h3>
 <h4>Explainability via SHAP</h4>
 <sub>Global + local feature attribution reveals payload statistics and TCP flags as the primary attack indicators.</sub>
 
@@ -326,7 +320,7 @@
 </tr>
 </table>
 
-### 📊 &nbsp; Results — Benchmarked Against 7 Baselines
+### Results — Benchmarked Against 7 Baselines
 
 <div align="center">
 
@@ -404,7 +398,7 @@
 
 <div align="center">
 
-| 📌 &nbsp; Title | 🏛️ &nbsp; Venue | 🏷️ &nbsp; Domain | 📅 &nbsp; Year |
+| Title | Venue | Domain | Year |
 |---|---|---|---|
 | **Hybrid Framework with Feature Selection and Explainable AI for IoT Intrusion Detection** | *IEEE RAAICON 2025 — MIST, Dhaka* | IoT • Cybersecurity • XAI | 2025 |
 | **Phishing Detection using LSTM & Feature Engineering** | *Conference Paper* | Cybersecurity • DL | 2025 |
@@ -452,6 +446,6 @@ Drop a message — let's build something impactful together!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
-<sub>⭐ From <a href="https://github.com/saifulislampriyan">saifulislampriyan</a> — if you find my work useful, drop a star on my repos!</sub>
+<sub>From <a href="https://github.com/saifulislampriyan">saifulislampriyan</a> — if you find my work useful, drop a star on my repos!</sub>
 
 </div>
