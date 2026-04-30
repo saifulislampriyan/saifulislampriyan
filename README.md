@@ -3,13 +3,13 @@
 <!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-  
-<a href="https://github.com/saifulislampriyan">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=280&section=header&text=Md.%20Saiful%20Islam&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Machine%20Learning%20%E2%80%A2%20NLP%20%E2%80%A2%20Cybersecurity%20Researcher&descAlignY=58&descSize=20" width="100%" alt="header"/>
-</a>
 
 <a href="https://github.com/saifulislampriyan">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&multiline=false&width=720&height=60&lines=Machine+Learning+Engineer+%F0%9F%A4%96;Natural+Language+Processing+Researcher+%F0%9F%A7%A0;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;IEEE+Conference+Author+%F0%9F%93%84;Industrial+Automation+Engineer+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Md.%20Saiful%20Islam&fontSize=75&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Machine%20Learning%20%E2%80%A2%20NLP%20%E2%80%A2%20Cybersecurity%20Researcher&descAlignY=58&descSize=20" width="100%" alt="header"/>
+</a>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=700&color=00F7FF&center=true&vCenter=true&multiline=false&width=780&height=70&lines=Machine+Learning+Engineer+%F0%9F%A4%96;Natural+Language+Processing+Researcher+%F0%9F%A7%A0;Cybersecurity+Enthusiast+%F0%9F%9B%A1%EF%B8%8F;IEEE+Conference+Author+%F0%9F%93%84;Industrial+Automation+Engineer+%E2%9A%99%EF%B8%8F" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -23,7 +23,12 @@
 <a href="https://github.com/saifulislampriyan">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
+<br/>
+
 <img src="https://komarev.com/ghpvc/?username=saifulislampriyan&label=Profile%20views&color=00f7ff&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/saifulislampriyan?label=Followers&style=for-the-badge&color=00f7ff&logo=github" alt="followers"/>
+<img src="https://img.shields.io/github/stars/saifulislampriyan?label=Stars&style=for-the-badge&color=ff6f00&logo=github" alt="stars"/>
 
 </div>
 
@@ -33,37 +38,20 @@
 <!-- ║                              ABOUT ME                                     ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403295/media/dbcd913c075568a6d610fdb674edaeac.gif"/>
+
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="32"> &nbsp; About Me
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/5403295/media/dbcd913c075568a6d610fdb674edaeac.gif" />
+<img src="https://img.shields.io/badge/-CSE%20Graduate-00F7FF?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/-IEEE%20Author-0066B3?style=flat-square&logo=ieee&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9-006A4E?style=flat-square&logoColor=white"/>
 
-```python
-class SaifulIslam:
-    def __init__(self):
-        self.name        = "Md. Saiful Islam"
-        self.role        = "ML & NLP Researcher"
-        self.education   = "B.Sc. in Computer Science & Engineering"
-        self.location    = "Bangladesh 🇧🇩"
-        
-    def current_focus(self):
-        return [
-            "🔬 Phishing Detection with Hybrid DL Models",
-            "🌐 IoT Security via PSO-CNN-XGBoost",
-            "🇧🇩 Bengali NLP & Hate Speech Classification",
-            "🏥 Medical Imaging (TB Detection ~99.4%)"
-        ]
-
-    def fun_fact(self):
-        return "I bridge AI research and industrial automation ⚙️"
-
-me = SaifulIslam()
-```
-
-- 🎓 &nbsp; **CSE Graduate** passionate about **AI, ML, NLP & Cybersecurity**  
-- 📄 &nbsp; **IEEE Conference Author** — *RAAICON 2025*  
-- 🔍 &nbsp; Currently researching **Phishing Detection**, **IoT Security**, and **Bengali NLP**  
-- ⚙️ &nbsp; Hands-on experience with **Industrial Automation (PLC & SCADA)**  
-- 💬 &nbsp; Ask me about **Deep Learning, Cybersecurity, or Bengali NLP**  
+- 🎓 &nbsp; **CSE Graduate** passionate about **AI · ML · NLP · Cybersecurity**
+- 📄 &nbsp; **IEEE Conference Author** at **RAAICON 2025**
+- 🔬 &nbsp; Currently researching **Phishing Detection · IoT Security · Bengali NLP**
+- ⚙️ &nbsp; Hands-on with **Industrial Automation (PLC & SCADA)**
+- 💬 &nbsp; Ask me about **Deep Learning · Cybersecurity · Bengali NLP**
+- 🎯 &nbsp; **Goal:** publish more high-impact research bridging AI & security
 - 📫 &nbsp; Reach me at **priyansaiful@gmail.com**
 
 <br clear="right"/>
@@ -80,75 +68,57 @@ me = SaifulIslam()
 
 ### 💻 &nbsp; Languages
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,rust,bash,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,rust,bash,mysql&theme=dark&perline=8"/>
 
 ### 🤖 &nbsp; AI / Machine Learning / Deep Learning
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" />
-&nbsp;
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/XGBoost-EB6C2D?style=for-the-badge&logo=xgboost&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark"/>
+<br/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/XGBoost-EB6C2D?style=for-the-badge&logo=xgboost&logoColor=white"/>
+<img src="https://img.shields.io/badge/LightGBM-3A9C3D?style=for-the-badge&logo=lightgbm&logoColor=white"/>
 
 ### 📊 &nbsp; Data Science & NLP
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
 ### 🛡️ &nbsp; Cybersecurity & Tools
 
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-2C3E50?style=for-the-badge&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-2C3E50?style=for-the-badge&logo=nmap&logoColor=white"/>
 
 ### ⚙️ &nbsp; Industrial Automation
 
-<img src="https://img.shields.io/badge/PLC-Programming-3DA639?style=for-the-badge&logo=siemens&logoColor=white" />
-<img src="https://img.shields.io/badge/SCADA-System-FF6F00?style=for-the-badge&logo=automattic&logoColor=white" />
-<img src="https://img.shields.io/badge/Ladder%20Logic-005AA0?style=for-the-badge&logo=ladder&logoColor=white" />
+<img src="https://img.shields.io/badge/PLC-Programming-3DA639?style=for-the-badge&logo=siemens&logoColor=white"/>
+<img src="https://img.shields.io/badge/SCADA-System-FF6F00?style=for-the-badge&logo=automattic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ladder%20Logic-005AA0?style=for-the-badge&logoColor=white"/>
 
 ### 🧰 &nbsp; Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman,figma,latex&theme=dark&perline=8"/>
 
 </div>
 
 ---
 
 <!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                              GITHUB STATS                                 ║ -->
+<!-- ║                              CONTRIBUTION GRAPH                           ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
-## 📊 &nbsp; GitHub Analytics
+## 📈 &nbsp; Contribution Graph
 
 <div align="center">
 
 <a href="https://github.com/saifulislampriyan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saifulislampriyan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saifulislampriyan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/saifulislampriyan">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saifulislampriyan&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6F00&currStreakLabel=00F7FF" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/saifulislampriyan">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saifulislampriyan&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=saifulislampriyan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saifulislampriyan&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&custom_title=Saiful%27s%20Contribution%20Journey" width="100%" alt="contribution graph"/>
 </a>
 
 </div>
@@ -165,60 +135,87 @@ me = SaifulIslam()
 <tr>
 <td width="50%" valign="top">
 
-### 🇧🇩 &nbsp; Bengali Hate Speech Detection
-<p>
-<img src="https://img.shields.io/badge/Accuracy-78.77%25-success?style=flat-square"/>
-<img src="https://img.shields.io/badge/Dataset-5,698-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/NLP-Deep%20Learning-purple?style=flat-square"/>
+<h3 align="center">🇧🇩 &nbsp; Bengali Hate Speech Detection</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Accuracy-78.77%25-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Dataset-5,698-blue?style=for-the-badge"/>
 </p>
 
-> Built an NLP pipeline to detect hate speech in **low-resource Bengali text** using **TF-IDF**, **Word Embeddings**, and **Dropout regularization**.
+<p align="center">
+<img src="https://img.shields.io/badge/NLP-Deep%20Learning-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/Low--Resource-Bengali-red?style=flat-square"/>
+</p>
 
-**Stack:** `Python` `TensorFlow` `Keras` `NLTK` `Pandas`
+> NLP pipeline that detects hate speech in **low-resource Bengali text** using **TF-IDF**, **Word Embeddings**, and **Dropout regularization**.
+
+<p align="center">
+<code>Python</code> · <code>TensorFlow</code> · <code>Keras</code> · <code>NLTK</code> · <code>Pandas</code>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ &nbsp; Phishing Detection System
-<p>
-<img src="https://img.shields.io/badge/Accuracy-92%25-success?style=flat-square"/>
-<img src="https://img.shields.io/badge/Model-CNN--LSTM-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/Security-Cybersecurity-red?style=flat-square"/>
+<h3 align="center">🛡️ &nbsp; Phishing Detection System</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Accuracy-92%25-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Model-CNN--LSTM-orange?style=for-the-badge"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Cybersecurity-Real--Time-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/Homoglyph-Detection-blueviolet?style=flat-square"/>
 </p>
 
 > Hybrid **CNN-LSTM** model with engineered features that flags **homoglyph attacks** and social engineering URLs in real time.
 
-**Stack:** `Python` `TensorFlow` `Scikit-Learn` `NumPy`
+<p align="center">
+<code>Python</code> · <code>TensorFlow</code> · <code>Scikit-Learn</code> · <code>NumPy</code>
+</p>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 &nbsp; TB Detection (ResNet + EfficientNet)
-<p>
-<img src="https://img.shields.io/badge/Accuracy-99.4%25-brightgreen?style=flat-square"/>
-<img src="https://img.shields.io/badge/Model-Ensemble%20DL-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/Domain-Medical%20Imaging-blueviolet?style=flat-square"/>
+<h3 align="center">🏥 &nbsp; TB Detection (ResNet + EfficientNet)</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Accuracy-99.4%25-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Model-Ensemble-orange?style=for-the-badge"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Medical%20Imaging-X--Ray-blueviolet?style=flat-square"/>
+<img src="https://img.shields.io/badge/Transfer-Learning-9cf?style=flat-square"/>
 </p>
 
 > **Ensemble deep learning** model fusing ResNet & EfficientNet for automated **chest X-ray classification** of Tuberculosis.
 
-**Stack:** `Python` `TensorFlow` `Keras` `OpenCV`
+<p align="center">
+<code>Python</code> · <code>TensorFlow</code> · <code>Keras</code> · <code>OpenCV</code>
+</p>
 
 </td>
 <td width="50%" valign="top">
 
-### 🌐 &nbsp; IoT Security: Hybrid PSO-CNN-XGBoost
-<p>
-<img src="https://img.shields.io/badge/Venue-IEEE%20RAAICON%202025-blue?style=flat-square"/>
-<img src="https://img.shields.io/badge/Method-Hybrid%20Model-orange?style=flat-square"/>
-<img src="https://img.shields.io/badge/Domain-IoT%20Security-red?style=flat-square"/>
+<h3 align="center">🌐 &nbsp; Hybrid PSO-CNN-XGBoost — IoT Security</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Venue-IEEE%20RAAICON%202025-0066B3?style=for-the-badge&logo=ieee&logoColor=white"/>
 </p>
 
-> **PSO-optimized CNN-XGBoost** pipeline for IoT intrusion detection — published in **IEEE RAAICON 2025**.
+<p align="center">
+<img src="https://img.shields.io/badge/IoT-Intrusion%20Detection-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/Optimization-PSO-yellow?style=flat-square"/>
+</p>
 
-**Stack:** `Python` `TensorFlow` `XGBoost` `Scikit-Learn`
+> **PSO-optimized CNN-XGBoost** pipeline for IoT intrusion detection — **published at IEEE RAAICON 2025**.
+
+<p align="center">
+<code>Python</code> · <code>TensorFlow</code> · <code>XGBoost</code> · <code>Scikit-Learn</code>
+</p>
 
 </td>
 </tr>
@@ -240,9 +237,13 @@ me = SaifulIslam()
 | **Phishing Detection using LSTM & Feature Engineering** | *Conference Paper* | Cybersecurity • DL | 2025 |
 | **Bengali NLP Classification System for Hate Speech** | *Research Project* | NLP • Low-Resource | 2024 |
 
-</div>
+<br/>
 
-> 🏆 &nbsp; **IEEE Conference Author** — 4th International Conference on Robotics, Automation, AI, and IoT (**RAAICON 2025**)
+<img src="https://img.shields.io/badge/🏆-IEEE%20Conference%20Author-0066B3?style=for-the-badge&logo=ieee&logoColor=white"/>
+
+> **4th International Conference on Robotics, Automation, AI, and IoT — RAAICON 2025**
+
+</div>
 
 ---
 
@@ -253,19 +254,13 @@ me = SaifulIslam()
 ## 🐍 &nbsp; Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/saifulislampriyan/saifulislampriyan/output/github-contribution-grid-snake-dark.svg" alt="snake gif"/>
-</div>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saifulislampriyan/saifulislampriyan/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saifulislampriyan/saifulislampriyan/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/saifulislampriyan/saifulislampriyan/output/github-contribution-grid-snake.svg"/>
+</picture>
 
-<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                              QUOTE                                        ║ -->
-<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
-
-## 💭 &nbsp; Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
 ---
@@ -278,18 +273,19 @@ me = SaifulIslam()
 
 <div align="center">
 
-I’m always open to **research collaborations**, **open-source contributions**, and **AI/Cybersecurity discussions**. Reach out — let's build something impactful together!
+I'm always open to **research collaborations**, **open-source contributions**, and **AI / Cybersecurity discussions**.<br/>
+Drop a message — let's build something impactful together!
 
-<br/>
+<br/><br/>
 
 <a href="mailto:priyansaiful@gmail.com">
-  <img src="https://img.shields.io/badge/-priyansaiful%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/-priyansaiful%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/saifulislampriyan">
-  <img src="https://img.shields.io/badge/-Saiful%20Islam%20Priyan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Saiful%20Islam%20Priyan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/saifulislampriyan">
-  <img src="https://img.shields.io/badge/-saifulislampriyan-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-saifulislampriyan-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -302,10 +298,8 @@ I’m always open to **research collaborations**, **open-source contributions**,
 
 <div align="center">
 
-### ✨ *“Engineering Intelligent Systems — One Model at a Time.”* ✨
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
-<sub>⭐ From <a href="https://github.com/saifulislampriyan">saifulislampriyan</a> — if you like this profile, drop a star on my repos!</sub>
+<sub>⭐ From <a href="https://github.com/saifulislampriyan">saifulislampriyan</a> — if you find my work useful, drop a star on my repos!</sub>
 
 </div>
