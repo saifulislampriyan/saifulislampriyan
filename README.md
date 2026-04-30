@@ -281,20 +281,6 @@
 
 </div>
 
-### Authors
-
-<div align="center">
-
-| Author | Affiliation |
-|---|---|
-| Arshadul Islam Sourav | ICT, Comilla University |
-| **Md. Saiful Islam** | **CSE, Comilla University** |
-| Umma Sabikun Nahar | CSE, Gopalganj Science & Technology University |
-| Mahmudul Islam Nayon | CSE, Comilla University |
-| Md. Tofael Ahmed | ICT, Comilla University |
-
-</div>
-
 ### Key Contributions
 
 <table>
