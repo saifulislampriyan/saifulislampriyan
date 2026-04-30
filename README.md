@@ -66,7 +66,7 @@
 <!-- ║                              TECH STACK                                   ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
-## 🛠️ &nbsp; Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
@@ -155,13 +155,13 @@
 <!-- ║                              FEATURED PROJECTS                            ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
-## 🚀 &nbsp; Featured Projects
+## Featured Projects
 
 <table align="center">
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🇧🇩 &nbsp; Bengali Hate Speech Detection</h3>
+<h3 align="center">Bengali Hate Speech Detection</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Accuracy-78.77%25-success?style=for-the-badge"/>
@@ -182,7 +182,7 @@
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🛡️ &nbsp; Phishing Detection System</h3>
+<h3 align="center">Phishing Detection System</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Accuracy-92%25-success?style=for-the-badge"/>
@@ -205,7 +205,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🏥 &nbsp; TB Detection (ResNet + EfficientNet)</h3>
+<h3 align="center">TB Detection (ResNet + EfficientNet)</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Accuracy-99.4%25-brightgreen?style=for-the-badge"/>
@@ -226,7 +226,7 @@
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🌐 &nbsp; Hybrid PSO-CNN-XGBoost — IoT Security</h3>
+<h3 align="center">Hybrid PSO-CNN-XGBoost — IoT Security</h3>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Accuracy-98.46%25-brightgreen?style=for-the-badge"/>
@@ -255,7 +255,7 @@
 <!-- ║                  IEEE RAAICON 2025 — FEATURED PUBLICATION                 ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
-## 🏆 &nbsp; Featured Publication — IEEE RAAICON 2025
+## Featured Publication — IEEE RAAICON 2025
 
 <div align="center">
 
@@ -266,7 +266,7 @@
 
 <br/><br/>
 
-### 📘 &nbsp; *Hybrid Framework with Feature Selection and Explainable AI for IoT Intrusion Detection*
+### *Hybrid Framework with Feature Selection and Explainable AI for IoT Intrusion Detection*
 
 <sub>**4th IEEE International Conference on Robotics, Automation, AI, and IoT (RAAICON)** &nbsp;·&nbsp; 27–28 Nov 2025 &nbsp;·&nbsp; Military Institute of Science and Technology, Dhaka, Bangladesh</sub>
 
@@ -276,7 +276,7 @@
 <tr>
 <td>
 
-> 📄 &nbsp; **Abstract.** We propose a hybrid framework that integrates **Particle Swarm Optimization (PSO)** for feature selection, a **Convolutional Neural Network (CNN)** for representation learning, and **XGBoost** for robust classification on the **RT-IoT2022** dataset. To improve transparency, **SHAP** is employed to reveal feature contributions at both global and local levels. The proposed model achieves **98.46% accuracy**, surpassing classical ML and standalone deep learning baselines.
+> **Abstract.** We propose a hybrid framework that integrates **Particle Swarm Optimization (PSO)** for feature selection, a **Convolutional Neural Network (CNN)** for representation learning, and **XGBoost** for robust classification on the **RT-IoT2022** dataset. To improve transparency, **SHAP** is employed to reveal feature contributions at both global and local levels. The proposed model achieves **98.46% accuracy**, surpassing classical ML and standalone deep learning baselines.
 
 </td>
 </tr>
@@ -298,7 +298,7 @@
 
 </div>
 
-### 🎯 &nbsp; Key Contributions
+### Key Contributions
 
 <table>
 <tr>
@@ -339,11 +339,11 @@
 | XGBoost | 96.50% | 96.56% | 96.50% | 96.32% |
 | CNN | 97.53% | 96.73% | 97.53% | 96.96% |
 | LSTM | 97.41% | 96.58% | 97.41% | 96.85% |
-| **🏆 Proposed (PSO + CNN + XGBoost)** | **98.46%** | **98.46%** | **98.46%** | **98.46%** |
+| **Proposed (PSO + CNN + XGBoost)** | **98.46%** | **98.46%** | **98.46%** | **98.46%** |
 
 </div>
 
-### 🖼️ &nbsp; Results Gallery
+### Results Gallery
 
 <div align="center">
 
@@ -400,7 +400,7 @@
 <!-- ║                              ALL PUBLICATIONS                             ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
-## 📚 &nbsp; All Publications & Research
+## All Publications & Research
 
 <div align="center">
 
@@ -418,7 +418,7 @@
 <!-- ║                              CONNECT                                      ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
-## 🤝 &nbsp; Let's Connect
+## Let's Connect
 
 <div align="center">
 
