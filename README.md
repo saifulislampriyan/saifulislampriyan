@@ -17,6 +17,9 @@
 <a href="mailto:priyansaiful@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
+<a href="mailto:saifulislam.cse@stdu.cou.ac.bd">
+  <img src="https://img.shields.io/badge/Edu%20Mail-005AA0?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Edu Mail"/>
+</a>
 <a href="https://linkedin.com/in/saifulislampriyan">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -46,13 +49,14 @@
 <img src="https://img.shields.io/badge/-IEEE%20Author-0066B3?style=flat-square&logo=ieee&logoColor=white"/>
 <img src="https://img.shields.io/badge/-Bangladesh%20%F0%9F%87%A7%F0%9F%87%A9-006A4E?style=flat-square&logoColor=white"/>
 
-- 🎓 &nbsp; **CSE Graduate** passionate about **AI · ML · NLP · Cybersecurity**
-- 📄 &nbsp; **IEEE Conference Author** at **RAAICON 2025**
+- 🎓 &nbsp; **B.Sc. & M.Sc. in Computer Science & Engineering** — *Comilla University* 🇧🇩
+- 📄 &nbsp; **IEEE Conference Author** at **RAAICON 2025** *(MIST, Dhaka)*
 - 🔬 &nbsp; Currently researching **Phishing Detection · IoT Security · Bengali NLP**
 - ⚙️ &nbsp; Hands-on with **Industrial Automation (PLC & SCADA)**
 - 💬 &nbsp; Ask me about **Deep Learning · Cybersecurity · Bengali NLP**
 - 🎯 &nbsp; **Goal:** publish more high-impact research bridging AI & security
-- 📫 &nbsp; Reach me at **priyansaiful@gmail.com**
+- 📫 &nbsp; **Personal:** [priyansaiful@gmail.com](mailto:priyansaiful@gmail.com)
+- 🏛️ &nbsp; **Academic:** [saifulislam.cse@stdu.cou.ac.bd](mailto:saifulislam.cse@stdu.cou.ac.bd)
 
 <br clear="right"/>
 
@@ -116,6 +120,28 @@
 ## 📈 &nbsp; Contribution Graph
 
 <div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <h3>📝</h3>
+  <h2><img src="https://img.shields.io/badge/63-7C3AED?style=for-the-badge&label=Total%20Contributions&labelColor=0D1117&color=7C3AED"/></h2>
+  <sub>Oct 13, 2024 — Present</sub>
+</td>
+<td align="center" width="33%">
+  <h3>🔥</h3>
+  <h2><img src="https://img.shields.io/badge/3-00F7FF?style=for-the-badge&label=Current%20Streak&labelColor=0D1117&color=00F7FF"/></h2>
+  <sub>Apr 29 — May 1</sub>
+</td>
+<td align="center" width="33%">
+  <h3>🏆</h3>
+  <h2><img src="https://img.shields.io/badge/7-FF6F00?style=for-the-badge&label=Longest%20Streak&labelColor=0D1117&color=FF6F00"/></h2>
+  <sub>Mar 31 — Apr 6</sub>
+</td>
+</tr>
+</table>
+
+<br/>
 
 <a href="https://github.com/saifulislampriyan">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saifulislampriyan&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&custom_title=Saiful%27s%20Contribution%20Journey" width="100%" alt="contribution graph"/>
@@ -203,18 +229,20 @@
 <h3 align="center">🌐 &nbsp; Hybrid PSO-CNN-XGBoost — IoT Security</h3>
 
 <p align="center">
+<img src="https://img.shields.io/badge/Accuracy-98.46%25-brightgreen?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Venue-IEEE%20RAAICON%202025-0066B3?style=for-the-badge&logo=ieee&logoColor=white"/>
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/IoT-Intrusion%20Detection-red?style=flat-square"/>
 <img src="https://img.shields.io/badge/Optimization-PSO-yellow?style=flat-square"/>
+<img src="https://img.shields.io/badge/Explainable-SHAP-9cf?style=flat-square"/>
 </p>
 
-> **PSO-optimized CNN-XGBoost** pipeline for IoT intrusion detection — **published at IEEE RAAICON 2025**.
+> **PSO-optimized CNN-XGBoost** pipeline with **SHAP** explainability for IoT intrusion detection — **published at IEEE RAAICON 2025**.
 
 <p align="center">
-<code>Python</code> · <code>TensorFlow</code> · <code>XGBoost</code> · <code>Scikit-Learn</code>
+<code>Python</code> · <code>TensorFlow</code> · <code>XGBoost</code> · <code>SHAP</code>
 </p>
 
 </td>
@@ -224,24 +252,163 @@
 ---
 
 <!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                              RESEARCH                                     ║ -->
+<!-- ║                  IEEE RAAICON 2025 — FEATURED PUBLICATION                 ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
-## 📄 &nbsp; Research & Publications
+## 🏆 &nbsp; Featured Publication — IEEE RAAICON 2025
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/IEEE-RAAICON%202025-0066B3?style=for-the-badge&logo=ieee&logoColor=white"/>
+<img src="https://img.shields.io/badge/Status-Published-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Accuracy-98.46%25-brightgreen?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Venue-MIST%20Dhaka-006A4E?style=for-the-badge"/>
+
+<br/><br/>
+
+### 📘 &nbsp; *Hybrid Framework with Feature Selection and Explainable AI for IoT Intrusion Detection*
+
+<sub>**4th IEEE International Conference on Robotics, Automation, AI, and IoT (RAAICON)** &nbsp;·&nbsp; 27–28 Nov 2025 &nbsp;·&nbsp; Military Institute of Science and Technology, Dhaka, Bangladesh</sub>
+
+<br/>
+
+<table>
+<tr>
+<td>
+
+> 📄 &nbsp; **Abstract.** We propose a hybrid framework that integrates **Particle Swarm Optimization (PSO)** for feature selection, a **Convolutional Neural Network (CNN)** for representation learning, and **XGBoost** for robust classification on the **RT-IoT2022** dataset. To improve transparency, **SHAP** is employed to reveal feature contributions at both global and local levels. The proposed model achieves **98.46% accuracy**, surpassing classical ML and standalone deep learning baselines.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+### 👥 &nbsp; Authors
+
+<div align="center">
+
+| Author | Affiliation |
+|---|---|
+| Arshadul Islam Sourav | ICT, Comilla University |
+| **Md. Saiful Islam** ⭐ | **CSE, Comilla University** |
+| Umma Sabikun Nahar | CSE, Gopalganj Science & Technology University |
+| Mahmudul Islam Nayon | CSE, Comilla University |
+| Md. Tofael Ahmed | ICT, Comilla University |
+
+</div>
+
+### 🎯 &nbsp; Key Contributions
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+<h3>🐝</h3>
+<h4>PSO Feature Selection</h4>
+<sub>Wrapper-based PSO reduces 83 → <b>20</b> most discriminative features, validated by Pearson correlation pruning.</sub>
+
+</td>
+<td width="33%" align="center">
+
+<h3>🧬</h3>
+<h4>Hybrid CNN → XGBoost</h4>
+<sub>CNN learns dense embeddings; XGBoost classifies them — combining representation power with robust decision boundaries.</sub>
+
+</td>
+<td width="33%" align="center">
+
+<h3>🔍</h3>
+<h4>Explainability via SHAP</h4>
+<sub>Global + local feature attribution reveals payload statistics and TCP flags as the primary attack indicators.</sub>
+
+</td>
+</tr>
+</table>
+
+### 📊 &nbsp; Results — Benchmarked Against 7 Baselines
+
+<div align="center">
+
+| Model | Accuracy | Precision | Recall | F1-Score |
+|---|:---:|:---:|:---:|:---:|
+| Logistic Regression | 78.69% | 69.18% | 78.69% | 70.19% |
+| K-Nearest Neighbors | 79.16% | 69.25% | 79.16% | 72.48% |
+| AdaBoost | 84.58% | 87.77% | 84.58% | 83.80% |
+| Random Forest | 93.57% | 91.47% | 93.57% | 92.44% |
+| XGBoost | 96.50% | 96.56% | 96.50% | 96.32% |
+| CNN | 97.53% | 96.73% | 97.53% | 96.96% |
+| LSTM | 97.41% | 96.58% | 97.41% | 96.85% |
+| **🏆 Proposed (PSO + CNN + XGBoost)** | **98.46%** | **98.46%** | **98.46%** | **98.46%** |
+
+</div>
+
+### 🖼️ &nbsp; Results Gallery
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+  <a href="assets/raaicon-workflow.png">
+    <img src="assets/raaicon-workflow.png" width="100%" alt="Proposed Workflow"/>
+  </a>
+  <sub><b>Fig. 1 &nbsp; · &nbsp; Proposed Framework Workflow</b><br/>RT-IoT2022 → Preprocessing → PSO + Pearson → Models → Metrics → SHAP</sub>
+</td>
+<td align="center" width="50%">
+  <a href="assets/raaicon-pso-features.png">
+    <img src="assets/raaicon-pso-features.png" width="100%" alt="PSO Feature Importance"/>
+  </a>
+  <sub><b>Fig. 2 &nbsp; · &nbsp; Top 20 Features Ranked by PSO</b><br/>fwd_subflow_bytes, service, fwd_pkts_payload.avg lead the ranking</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+  <a href="assets/raaicon-pearson.png">
+    <img src="assets/raaicon-pearson.png" width="100%" alt="Pearson Correlation Heatmap"/>
+  </a>
+  <sub><b>Fig. 3 &nbsp; · &nbsp; Pearson Correlation Heatmap</b><br/>Block-diagonal redundancy reveals features pruned for multicollinearity</sub>
+</td>
+<td align="center" width="50%">
+  <a href="assets/raaicon-confusion.png">
+    <img src="assets/raaicon-confusion.png" width="100%" alt="Confusion Matrix"/>
+  </a>
+  <sub><b>Fig. 4 &nbsp; · &nbsp; Confusion Matrix</b><br/>Strong diagonal — near-perfect classification across 12 attack types</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+  <a href="assets/raaicon-roc.png">
+    <img src="assets/raaicon-roc.png" width="100%" alt="ROC Curves"/>
+  </a>
+  <sub><b>Fig. 5 &nbsp; · &nbsp; ROC Curves (AUC = 1.000)</b><br/>Micro & macro-averaged AUC reach 1.000 across all classes</sub>
+</td>
+<td align="center" width="50%">
+  <a href="assets/raaicon-shap.png">
+    <img src="assets/raaicon-shap.png" width="100%" alt="SHAP Interaction Values"/>
+  </a>
+  <sub><b>Fig. 6 &nbsp; · &nbsp; SHAP Interaction Values</b><br/>Payload stats + TCP flag counts dominate attack-class predictions</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                              ALL PUBLICATIONS                             ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
+
+## 📚 &nbsp; All Publications & Research
 
 <div align="center">
 
 | 📌 &nbsp; Title | 🏛️ &nbsp; Venue | 🏷️ &nbsp; Domain | 📅 &nbsp; Year |
 |---|---|---|---|
-| **Hybrid PSO-CNN-XGBoost for IoT Security** | *IEEE RAAICON* | IoT • Cybersecurity | 2025 |
+| **Hybrid Framework with Feature Selection and Explainable AI for IoT Intrusion Detection** | *IEEE RAAICON 2025 — MIST, Dhaka* | IoT • Cybersecurity • XAI | 2025 |
 | **Phishing Detection using LSTM & Feature Engineering** | *Conference Paper* | Cybersecurity • DL | 2025 |
 | **Bengali NLP Classification System for Hate Speech** | *Research Project* | NLP • Low-Resource | 2024 |
-
-<br/>
-
-<img src="https://img.shields.io/badge/🏆-IEEE%20Conference%20Author-0066B3?style=for-the-badge&logo=ieee&logoColor=white"/>
-
-> **4th International Conference on Robotics, Automation, AI, and IoT — RAAICON 2025**
 
 </div>
 
@@ -280,6 +447,9 @@ Drop a message — let's build something impactful together!
 
 <a href="mailto:priyansaiful@gmail.com">
   <img src="https://img.shields.io/badge/-priyansaiful%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="mailto:saifulislam.cse@stdu.cou.ac.bd">
+  <img src="https://img.shields.io/badge/-Comilla%20University%20Mail-005AA0?style=for-the-badge&logo=minutemailer&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/saifulislampriyan">
   <img src="https://img.shields.io/badge/-Saiful%20Islam%20Priyan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
