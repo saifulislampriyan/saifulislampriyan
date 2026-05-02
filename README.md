@@ -1,12 +1,5 @@
 
 
-<br/>
-
-I'm always open to **research collaborations**, **open-source contributions**, and **AI / Cybersecurity discussions**.<br/>
-Drop a message — let's build something impactful together!
-
-<br/><br/>
-
 <a href="mailto:priyansaiful@gmail.com">
   <img src="https://img.shields.io/badge/-priyansaiful%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
