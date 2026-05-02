@@ -1,4 +1,40 @@
+<!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                              CONNECT                                      ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════════╝ -->
 
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30"/> Let's Connect
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&height=50&lines=Open+to+research+collaborations+%F0%9F%A4%9D;Open-source+contributions+welcome+%F0%9F%92%BB;Let's+talk+AI+%E2%80%A2+NLP+%E2%80%A2+Cybersecurity+%F0%9F%9A%80" alt="Connect typing"/>
+
+<br/>
+
+I'm always open to **research collaborations**, **open-source contributions**, and **AI / Cybersecurity discussions**.<br/>
+Drop a message — let's build something impactful together!
+
+<br/><br/>
+
+<a href="mailto:priyansaiful@gmail.com">
+  <img src="https://img.shields.io/badge/-priyansaiful%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="mailto:saifulislam.cse@stdu.cou.ac.bd">
+  <img src="https://img.shields.io/badge/-Comilla%20University%20Mail-005AA0?style=for-the-badge&logo=minutemailer&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/saifulislampriyan">
+  <img src="https://img.shields.io/badge/-Saiful%20Islam%20Priyan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/saifulislampriyan">
+  <img src="https://img.shields.io/badge/-saifulislampriyan-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" alt="connect gif"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="rainbow line"/>
 
 <!-- ╔══════════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                              FOOTER                                       ║ -->
