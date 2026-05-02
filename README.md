@@ -1,9 +1,5 @@
 
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&height=50&lines=Open+to+research+collaborations+%F0%9F%A4%9D;Open-source+contributions+welcome+%F0%9F%92%BB;Let's+talk+AI+%E2%80%A2+NLP+%E2%80%A2+Cybersecurity+%F0%9F%9A%80" alt="Connect typing"/>
-
 <br/>
 
 I'm always open to **research collaborations**, **open-source contributions**, and **AI / Cybersecurity discussions**.<br/>
