@@ -17,7 +17,7 @@
 <a href="mailto:priyansaiful@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="mailto:saifulislam.cse@stdu.cou.ac.bd">
+<a href="mailto:saifulislam.cse@stud.cou.ac.bd">
   <img src="https://img.shields.io/badge/Edu%20Mail-005AA0?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Edu Mail"/>
 </a>
 <a href="https://linkedin.com/in/saifulislampriyan">
@@ -56,7 +56,7 @@
 - Ask me about **Deep Learning · Cybersecurity · Bengali NLP**
 - **Goal:** publish more high-impact research bridging AI & security
 - **Personal:** [priyansaiful@gmail.com](mailto:priyansaiful@gmail.com)
-- **Academic:** [saifulislam.cse@stdu.cou.ac.bd](mailto:saifulislam.cse@stdu.cou.ac.bd)
+- **Academic:** [saifulislam.cse@stud.cou.ac.bd](mailto:saifulislam.cse@stud.cou.ac.bd)
 
 <br clear="right"/>
 
@@ -410,7 +410,7 @@ Drop a message — let's build something impactful together!
 <a href="mailto:priyansaiful@gmail.com">
   <img src="https://img.shields.io/badge/-priyansaiful%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="mailto:saifulislam.cse@stdu.cou.ac.bd">
+<a href="mailto:saifulislam.cse@stud.cou.ac.bd">
   <img src="https://img.shields.io/badge/-Comilla%20University%20Mail-005AA0?style=for-the-badge&logo=minutemailer&logoColor=white"/>
 </a>
 <a href="https://linkedin.com/in/saifulislampriyan">
